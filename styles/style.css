@@ -204,7 +204,7 @@ ol {
 
 .search-form__textfield {
   color: #fff;
-  font-family: 'Fira Sans Condensed', sans-serif;
+  font-family: inherit;
   font-size: 18px;
   font-weight: 400;
   width: 225px;
@@ -219,7 +219,7 @@ ol {
 
 .search-form__textfield::placeholder {
   appearance: none;
-  font-family: 'Fira Sans Condensed', sans-serif;
+  font-family: inherit;
   font-size: 18px;
   font-weight: 400;
   color: rgb(255 255 255 / 0.7);
@@ -268,7 +268,7 @@ ol {
   color: #fff;
   border: 1px solid currentColor;
   background-color: transparent;
-  font-family: 'Fira Sans Condensed', sans-serif;
+  font-family: inherit;
   font-size: 18px;
   font-weight: 700;
   cursor: pointer;
